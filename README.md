@@ -9,29 +9,29 @@ Here i have uploaded the sql problems and its solution from a website sql-practi
 Problem 1 :
 Show first name, last name, and gender of patients whose gender is 'M' 
 Solution :
-```sql
+~~~~sql
 SELECT first_name,
        last_name,
        gender
 FROM patients
 WHERE gender = 'M';
-```
+~~~~
 -------------------------------------------------------------------------------------------------
 Problem 2 
 Show first name and last name of patients who does not have allergies. (null)
 Solution :
-'''sql
+~~~~sql
 SELECT first_name,lastname
-FROM patients 
+     FROM patients 
 WHERE allergies IS null;
-'''
+~~~~
 -------------------------------------------------------------------------------------------------
 Problem 3
 Show first name of patients that start with the letter 'C'
 Solution:
-'''sql
+~~~~sql
 SELECT first_name
 FROM patients
 WHERE first_name LIKE 'C%';
-'''
+~~~~
 ------------------------------------------------------------------------------------------------
