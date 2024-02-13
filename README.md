@@ -2,6 +2,13 @@
 Here i have uploaded the sql problems and its solution from a website sql-practise.com ,solved on daily basis.
 
 
+![erd](https://user-images.githubusercontent.com/19313466/211203253-23f70de3-4786-45aa-8d7f-54fb81525415.png)
+
+
+
+
+
+
 
 
 
